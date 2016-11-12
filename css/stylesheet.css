@@ -1,0 +1,27 @@
+#header {
+	text-align: center;
+}
+
+.button {
+	border: 1px blue;
+	padding: 10px;
+	margin: 50px;
+	background-color: blue;
+	width: 100px;
+	color: white;
+	text-decoration: none;
+	margin-top: 50px;
+}
+
+#profile_pic{
+	width: 200px;
+	height: 250px;
+}
+
+html {
+	background: url("../images/Computer-Science-Desktop-Background.jpg");
+	-webkit-background-size: cover;
+	-moz-background--size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
